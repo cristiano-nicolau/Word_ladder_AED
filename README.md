@@ -7,7 +7,7 @@ Using a hash table the goal was to link words by only performing a single change
 
 run: `make word_ladder``./word_ladder`
 
-#Authors
+# Authors
 + Criatiano Nicolau
 + Tiago Cruz
 + Pedro Rei
